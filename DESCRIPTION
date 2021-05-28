@@ -1,7 +1,7 @@
 Package: onepass
 Type: Package
 Title: 1password Credential Retrieval
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person(given = "Jonathan",
            family = "Lin",
@@ -11,7 +11,6 @@ Authors@R:
 Description: Interaction with 1Password via the command-line tool <https://1password.com/downloads/command-line/> to read vault contents and download credentials.
 License: GPL-3
 Encoding: UTF-8
-LazyData: true
 URL: https://jonlinca.github.io/onepass/,
         https://github.com/jonlinca/onepass
 BugReports: https://github.com/jonlinca/onepass/issues
@@ -19,8 +18,8 @@ Imports: jsonlite
 RoxygenNote: 7.1.1
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2021-01-25 15:51:30 UTC; jon
+Packaged: 2021-05-27 17:15:54 UTC; jon
 Author: Jonathan Lin [aut, cre] (<https://orcid.org/0000-0001-8664-6846>)
 Maintainer: Jonathan Lin <hello@jonlin.ca>
 Repository: CRAN
-Date/Publication: 2021-01-28 12:40:02 UTC
+Date/Publication: 2021-05-28 04:10:02 UTC
